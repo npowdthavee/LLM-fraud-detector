@@ -17,12 +17,12 @@ This file is for the research team and is not necessarily an IRB upload. It iden
 - PI NTU email and contact number.
 - Whether there are any co-investigators/study team members to list.
 - Funding source (or confirm no external funding).
-- Final compensation amount and estimated duration. Current draft assumes £6.25 for 25 minutes.
+- IRB reference: IRB-2026-1174.
+- Final compensation amount and estimated duration: US$3 for approximately 10–15 minutes.
 - Exact Prolific finance-related filters to be used; take a screenshot of the final audience/filter setup for your records.
 - Confirm CITI certification is current and visible in ERMP.
 - Confirm access to ERMP and appropriate School/AcR endorser/signatory.
 - Confirm NTU Qualtrics anonymity settings: no IP/location data; do not pass Prolific ID into Qualtrics.
-- After an IRB reference is assigned, insert it into the participant information sheet and recruitment materials before launch.
 
 # Submission sequence
 
@@ -35,8 +35,11 @@ This file is for the research team and is not necessarily an IRB upload. It iden
 
 # Design details frozen for this validation application
 
+- IRB reference: IRB-2026-1174.
 - 5 completed finance-experienced validators.
 - 14 scenarios; each shown once; randomized scenario order.
 - Four 0–100 ratings plus one categorical classification per scenario.
+- Estimated duration: approximately 10–15 minutes.
+- Compensation: US$3 through Prolific.
 - No deception, manipulation, sensitive personal questions, or collection of direct identifiers.
 - Preparatory validation only; no confirmatory LLM trajectories will be collected until the separate study has been preregistered.
