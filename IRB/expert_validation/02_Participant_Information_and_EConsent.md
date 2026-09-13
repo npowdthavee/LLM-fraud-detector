@@ -2,7 +2,7 @@ Version 1.0 | 13 September 2026
 
 | **Study title** | Expert Validation of Hypothetical Investment Scenarios for AI Financial-Advice Research |
 |---|---|
-| **IRB reference** | [NTU-IRB REFERENCE NUMBER – INSERT AFTER ASSIGNMENT] |
+| **IRB reference** | IRB-2026-1174 |
 | **Principal Investigator** | Prof Nattavudh (Nick) Powdthavee  
 Division of Economics, School of Social Sciences, Nanyang Technological University, Singapore  
 Email: [INSERT NTU EMAIL] |
@@ -22,7 +22,7 @@ You have been invited because you are at least 21 years old and matched finance-
 
 # What will I do?
 
-You will read 14 hypothetical investment opportunities, shown in a random order. For each, you will provide four ratings from 0 to 100 and select the category that best describes the opportunity. You will also answer a few broad questions about your finance-related background. The survey should take about 20–25 minutes.
+You will read 14 hypothetical investment opportunities, shown in a random order. For each, you will provide four ratings from 0 to 100 and select the category that best describes the opportunity. You will also answer a few broad questions about your finance-related background. The survey should take about 10–15 minutes.
 
 # Are there any risks or discomforts?
 
@@ -34,7 +34,7 @@ There is no direct personal benefit. Your responses may help improve the quality
 
 # Will I be paid?
 
-Yes. If you complete the study, you will receive £6.25 for an estimated 25-minute survey (equivalent to approximately £15/hour), paid through Prolific in accordance with the platform’s procedures.
+Yes. If you complete the study, you will receive US$3 for an estimated 10–15-minute survey, paid through Prolific in accordance with the platform’s procedures.
 
 # Do I have to participate?
 
