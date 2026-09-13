@@ -2,11 +2,11 @@ Version 1.0 | 13 September 2026
 
 | **Study title** | Expert Validation of Hypothetical Investment Scenarios for AI Financial-Advice Research |
 |---|---|
-| **IRB reference** | [NTU-IRB REFERENCE NUMBER – INSERT AFTER ASSIGNMENT] |
+| **IRB reference** | IRB-2026-1174 |
 | **PI** | Prof Nattavudh (Nick) Powdthavee | [INSERT NTU EMAIL] |
 | **Target** | 5 complete expert validators |
-| **Estimated time** | 20–25 minutes |
-| **Compensation** | £6.25 for an estimated 25-minute survey (equivalent to approximately £15/hour) |
+| **Estimated time** | 10–15 minutes |
+| **Compensation** | US$3 for an estimated 10–15-minute survey |
 
 # A. Prolific study title
 
@@ -18,11 +18,11 @@ NTU research study seeking adults with a finance-related background to evaluate 
 
 # C. Prolific detailed description
 
-You are invited to take part in an online research study conducted by Nanyang Technological University (NTU). The study is designed to validate hypothetical investment scenarios that may later be used in research on AI-generated financial advice. You will read 14 short investment descriptions and provide professional judgments about each one. The survey takes approximately 20–25 minutes. Participation is voluntary and the research survey itself is anonymous.
+You are invited to take part in an online research study conducted by Nanyang Technological University (NTU). The study is designed to validate hypothetical investment scenarios that may later be used in research on AI-generated financial advice. You will read 14 short investment descriptions and provide professional judgments about each one. The survey takes approximately 10–15 minutes. Participation is voluntary and the research survey itself is anonymous.
 
-Compensation: £6.25 for an estimated 25-minute survey (equivalent to approximately £15/hour).
+Compensation: US$3 for an estimated 10–15-minute survey.
 
-Principal Investigator: Prof Nattavudh (Nick) Powdthavee, Nanyang Technological University. Contact: [INSERT NTU EMAIL]. NTU-IRB: IRB@ntu.edu.sg; +65 6592 2495. IRB reference: [NTU-IRB REFERENCE NUMBER – INSERT AFTER ASSIGNMENT].
+Principal Investigator: Prof Nattavudh (Nick) Powdthavee, Nanyang Technological University. Contact: [INSERT NTU EMAIL]. NTU-IRB: IRB@ntu.edu.sg; +65 6592 2495. IRB reference: IRB-2026-1174.
 
 # D. Eligibility criteria / Prolific filters
 
@@ -36,7 +36,7 @@ Note: Prolific filters should be used for eligibility wherever possible. The sur
 
 # E. Final advertisement requirements before launch
 
-- Insert the approved NTU-IRB reference number.
+- Include IRB reference IRB-2026-1174.
 - Use the proper research title and identify NTU as the institution.
 - Include PI/recruitment contact details and NTU-IRB contact details.
 - Include the eligibility criteria.
