@@ -2,6 +2,7 @@ Version 1.0 | 13 September 2026
 
 | **Study title** | Expert Validation of Hypothetical Investment Scenarios for AI Financial-Advice Research |
 |---|---|
+| **IRB reference** | IRB-2026-1174 |
 | **Principal Investigator** | Prof Nattavudh (Nick) Powdthavee  
 Division of Economics, School of Social Sciences, Nanyang Technological University, Singapore  
 Email: [INSERT NTU EMAIL]  
@@ -9,8 +10,8 @@ Phone: [INSERT CONTACT NUMBER IF REQUIRED] |
 | **Proposed review category** | Social, Behavioural and Educational Research (SBER); Exempt Category 2 – anonymous online survey |
 | **Research site** | Online via NTU Qualtrics; recruitment via Prolific |
 | **Target sample** | 5 completed expert validators; up to 8 participant entries may be permitted to allow for non-consent, returns, or incomplete submissions |
-| **Estimated duration** | Approximately 20–25 minutes |
-| **Compensation** | £6.25 for an estimated 25-minute survey (equivalent to approximately £15/hour) |
+| **Estimated duration** | Approximately 10–15 minutes |
+| **Compensation** | US$3 for an estimated 10–15-minute survey |
 
 # 1. Background and rationale
 
@@ -81,7 +82,7 @@ There is no expected direct personal benefit. The study may improve the methodol
 
 # 11. Compensation
 
-Participants who complete the survey will receive £6.25 for an estimated 25-minute survey (equivalent to approximately £15/hour). Payment will be administered through Prolific. Participants who decline consent will not be enrolled in the study and will follow the platform’s approved no-consent completion path.
+Participants who complete the survey will receive US$3 for an estimated 10–15-minute survey. Payment will be administered through Prolific. Participants who decline consent will not be enrolled in the study and will follow the platform’s approved no-consent completion path.
 
 # 12. Consent process
 
