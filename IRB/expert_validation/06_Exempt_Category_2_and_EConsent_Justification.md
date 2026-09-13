@@ -2,6 +2,7 @@ Version 1.0 | 13 September 2026
 
 | **Study title** | Expert Validation of Hypothetical Investment Scenarios for AI Financial-Advice Research |
 |---|---|
+| **IRB reference** | IRB-2026-1174 |
 | **Proposed review** | Exempt Category 2 – anonymous survey |
 | **PI** | Prof Nattavudh (Nick) Powdthavee |
 
@@ -13,7 +14,7 @@ The study is designed to satisfy the key characteristics of NTU Exempt Category 
 
 # 2. Minimal-risk assessment
 
-The expected risk is no greater than ordinary professional judgment tasks. Participants are not asked about their own finances, experiences of fraud, employer, job performance, health, politics, illegal activity, or other sensitive matters. The scenarios are hypothetical. The principal foreseeable burden is mild fatigue from the 20–25 minute survey.
+The expected risk is no greater than ordinary professional judgment tasks. Participants are not asked about their own finances, experiences of fraud, employer, job performance, health, politics, illegal activity, or other sensitive matters. The scenarios are hypothetical. The principal foreseeable burden is mild fatigue from the 10–15-minute survey.
 
 # 3. Electronic consent and waiver of signed documentation
 
