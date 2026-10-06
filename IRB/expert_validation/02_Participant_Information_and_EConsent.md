@@ -34,7 +34,7 @@ There is no direct personal benefit. Your responses may help improve the quality
 
 # Will I be paid?
 
-Yes. If you complete the study, you will receive US$3 for an estimated 10–15-minute survey, paid through Prolific in accordance with the platform’s procedures.
+Yes. If you complete the study, you will receive US$10 for an estimated 10–15-minute survey, paid through Prolific in accordance with the platform’s procedures.
 
 # Do I have to participate?
 
