@@ -6,7 +6,7 @@ Current study details:
 - IRB reference: **IRB-2026-1174**
 - Target: **5 completed expert validators**
 - Estimated duration: **10–15 minutes**
-- Compensation: **US$3 via Prolific**
+- Compensation: **US$10 via Prolific**
 
 Contents:
 - Study protocol
