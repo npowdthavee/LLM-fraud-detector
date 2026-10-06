@@ -20,7 +20,7 @@ NTU research study seeking adults with a finance-related background to evaluate 
 
 You are invited to take part in an online research study conducted by Nanyang Technological University (NTU). The study is designed to validate hypothetical investment scenarios that may later be used in research on AI-generated financial advice. You will read 14 short investment descriptions and provide professional judgments about each one. The survey takes approximately 10–15 minutes. Participation is voluntary and the research survey itself is anonymous.
 
-Compensation: US$3 for an estimated 10–15-minute survey.
+Compensation: US$10 for an estimated 10–15-minute survey.
 
 Principal Investigator: Prof Nattavudh (Nick) Powdthavee, Nanyang Technological University. Contact: [INSERT NTU EMAIL]. NTU-IRB: IRB@ntu.edu.sg; +65 6592 2495. IRB reference: IRB-2026-1174.
 
