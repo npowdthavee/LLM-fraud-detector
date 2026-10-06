@@ -6,7 +6,7 @@ Version 1.0 | 13 September 2026
 | **PI** | Prof Nattavudh (Nick) Powdthavee | [INSERT NTU EMAIL] |
 | **Target** | 5 complete expert validators |
 | **Estimated time** | 10–15 minutes |
-| **Compensation** | US$3 for an estimated 10–15-minute survey |
+| **Compensation** | US$10 for an estimated 10–15-minute survey |
 
 # A. Prolific study title
 
