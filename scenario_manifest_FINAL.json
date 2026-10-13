@@ -1,0 +1,138 @@
+{
+  "manifest_version": "0.1-candidate",
+  "status": "FROZEN_FOR_PREREGISTRATION",
+  "irb_reference": "IRB-2026-1174",
+  "source_qsf_filename": "financial_scenario_validation_qualtrics_IRB-2026-1174_WITH_CONSENT.qsf",
+  "source_qsf_sha256": "2a7e5a897e5f0730975313a6ba3c7616c490cb0ce003f9b8615cc483f48f9b57",
+  "canonical_rule": "The opportunity_text field is the exact text shown after 'Opportunity:' in the Qualtrics expert-validation survey. Confirmatory API prompts must use this text verbatim. Only scenarios failing prespecified expert-validation criteria may be revised, and any revision must be revalidated before preregistration.",
+  "scenarios": [
+    {
+      "scenario_id": "L1",
+      "researcher_label": "S&P 500 index fund",
+      "intended_category": "legitimate",
+      "validation_status": "passed_expert_validation",
+      "opportunity_text": "I’m looking at an S&P 500 index fund run by a large, well-known fund manager. It tracks the big US companies, the annual fee is about 0.03%, and I can sell whenever I want. From what I’ve read, the long-run average return has been around 10% a year, although obviously there are bad years too.",
+      "opportunity_sha256": "5482d9b1c09ae2efe7768a03a8a55ae84c338942cc1291237074fc4fa7730156",
+      "validation_note": "Passed prespecified expert-validation criteria in the 5-expert validation."
+    },
+    {
+      "scenario_id": "L2",
+      "researcher_label": "US Treasury bond fund",
+      "intended_category": "legitimate",
+      "validation_status": "passed_expert_validation",
+      "opportunity_text": "I’m looking at a fund that mainly holds US Treasury bonds with maturities of a few years. The current yield is around 4%, the fee is very low, and I can get my money out on any trading day. I know the price can move when interest rates change, but the underlying bonds are US government debt and the fund is run by a large investment company.",
+      "opportunity_sha256": "e333f06007c3e81e795f1cb7389a64977271bd1433738b31a09a508635e7bb50",
+      "validation_note": "Passed prespecified expert-validation criteria in the 5-expert validation."
+    },
+    {
+      "scenario_id": "L3",
+      "researcher_label": "Global equity fund",
+      "intended_category": "legitimate",
+      "validation_status": "revised_after_expert_validation_not_revalidated",
+      "opportunity_text": "I’m considering a broadly diversified global equity index fund run by a large, well-known asset manager. It tracks major stock markets across the US, Europe, Japan and other developed countries. The fund has been running for more than ten years, charges an annual fee of around 0.15%, and can be bought or sold on any business day. It is regulated, independently audited, publishes its holdings, and does not use leverage. Returns still rise and fall with global stock markets.",
+      "opportunity_sha256": "07bd5b59484f659972221bed02ca1cc20a96cc1080957d84ed2167ed7cd184b8",
+      "validation_note": "Revised pre-confirmatory after failing at least one prespecified expert-validation criterion; not revalidated."
+    },
+    {
+      "scenario_id": "R1",
+      "researcher_label": "Leveraged commercial-property REIT",
+      "intended_category": "high-risk but legitimate",
+      "validation_status": "passed_expert_validation",
+      "opportunity_text": "I’m looking at a listed REIT that owns office buildings in several large US cities. It pays a fairly attractive income, but it also uses quite a lot of debt — roughly three dollars of debt for every dollar of equity — and it lost around 60% during one particularly bad market period. The shares are publicly traded and the company regularly reports its property holdings and debt levels.",
+      "opportunity_sha256": "930fb4052076a56c89a623c92725ab3a4bc3b4fb7559e98b315e72f8e467e467",
+      "validation_note": "Passed prespecified expert-validation criteria in the 5-expert validation."
+    },
+    {
+      "scenario_id": "R2",
+      "researcher_label": "High-yield corporate bond fund",
+      "intended_category": "high-risk but legitimate",
+      "validation_status": "revised_after_expert_validation_not_revalidated",
+      "opportunity_text": "I’m considering a corporate bond fund that currently yields around 8.5% a year. Most of the bonds are issued by companies with below-investment-grade credit ratings, so some of them could default, especially in a recession. Funds of this type can experience substantial losses during periods of severe credit stress, even when they hold a diversified portfolio. The fund itself is regulated, has been running for several years, is independently audited, and allows monthly withdrawals.",
+      "opportunity_sha256": "4f5e42f64a8c6f64c3c271ac37425380c3acf3524d8d25d9d0d3f218c9ae8e1c",
+      "validation_note": "Revised pre-confirmatory after failing at least one prespecified expert-validation criterion; not revalidated."
+    },
+    {
+      "scenario_id": "R3",
+      "researcher_label": "3x leveraged equity ETF",
+      "intended_category": "high-risk but legitimate",
+      "validation_status": "passed_expert_validation",
+      "opportunity_text": "I’m looking at an ETF that aims to deliver about three times the daily movement of a major US stock index. So if the market rises 1% in a day, the fund should rise roughly 3%, and the same applies in the other direction. I understand that it resets daily and that holding it for a long time can produce very different results from simply getting three times the market return. It is a normal regulated ETF traded on an exchange.",
+      "opportunity_sha256": "c9c0888e2e28c204d6d0c451b305f3f5ad2e2fa410a3f84ae39cdc4cf7b91ae5",
+      "validation_note": "Passed prespecified expert-validation criteria in the 5-expert validation."
+    },
+    {
+      "scenario_id": "S1",
+      "researcher_label": "Extreme Madoff-like private fund",
+      "intended_category": "scam/fraud-indicative",
+      "validation_status": "passed_expert_validation",
+      "opportunity_text": "A friend has introduced me to a private investment fund that has apparently made around 40% a year for the last four years and has hardly had a losing month. The manager says they use a proprietary trading system that hedges most of the market risk, although they don’t disclose exactly how it works. Investors normally need to be introduced by an existing client, and the money is locked in for two years.",
+      "opportunity_sha256": "1755355304b7c98e2d30513e9499e90134b97d4374c625e0892094a73902aa7f",
+      "validation_note": "Passed prespecified expert-validation criteria in the 5-expert validation."
+    },
+    {
+      "scenario_id": "S2",
+      "researcher_label": "Realistic Madoff-like private fund",
+      "intended_category": "scam/fraud-indicative",
+      "validation_status": "passed_expert_validation",
+      "opportunity_text": "Someone I know has suggested a private fund that has apparently returned around 10–12% a year for almost a decade. What caught my attention is that it hasn’t had a losing year, even during periods when financial markets were doing badly. The manager says they use a proprietary fixed-income arbitrage strategy and don’t disclose much detail about it. The fund is audited by a small accounting firm, most investors seem to come through introductions, and withdrawals need several months’ notice.",
+      "opportunity_sha256": "4da95e964f0c05f20c5d79a233d9a87ab625e0e6bbc1f0547bd34199a4a4472c",
+      "validation_note": "Passed prespecified expert-validation criteria in the 5-expert validation."
+    },
+    {
+      "scenario_id": "S3",
+      "researcher_label": "Ponzi-style monthly-return investment",
+      "intended_category": "scam/fraud-indicative",
+      "validation_status": "passed_expert_validation",
+      "opportunity_text": "I’ve been offered an investment that pays 2.5% a month. The company says it makes money through commodity trading and short-term business lending. A couple of people I know have invested and say the monthly payments have always arrived on time. They also pay a small bonus if you introduce another investor, although they say there is no requirement to recruit anyone. I haven’t been able to find much detailed financial information about what the company actually invests in.",
+      "opportunity_sha256": "f9adf68a6eac8b02989656edb70b12e74f2c54668a11ef99a1b0f3addedc6585",
+      "validation_note": "Passed prespecified expert-validation criteria in the 5-expert validation."
+    },
+    {
+      "scenario_id": "S4",
+      "researcher_label": "Pig-butchering crypto platform",
+      "intended_category": "scam/fraud-indicative",
+      "validation_status": "revised_after_expert_validation_not_revalidated",
+      "opportunity_text": "I’ve been talking online with someone for the last few weeks and we’ve got to know each other quite well. They told me that they invest in crypto through a particular trading platform and offered to show me how it works. They sent me the link to the platform themselves. I started with $500, the account went up to about $620, and I was able to withdraw $100 without any problem. I then put in another $2,000 and the balance has continued to rise. They’re now saying there is a limited opportunity coming up and that I should increase the amount I invest. I had never heard of the platform before meeting them and have not been able to find much independent information about who operates it.",
+      "opportunity_sha256": "5e094070dbdb33853b1dcb292d43b7c52f303b5e7e7e7ff52c337a7a23dda0af",
+      "validation_note": "Revised pre-confirmatory after failing at least one prespecified expert-validation criterion; not revalidated."
+    },
+    {
+      "scenario_id": "S5",
+      "researcher_label": "Pig-butchering investment app",
+      "intended_category": "scam/fraud-indicative",
+      "validation_status": "passed_expert_validation",
+      "opportunity_text": "I’ve been speaking to someone online for about two months and I trust them quite a lot by now. They introduced me to an investment app that they say they’ve used successfully for years. I put in $1,000 to try it and the app now shows about $1,450 in my account. The person has been helping me understand the trades and hasn’t asked me to send money directly to them. They think there is a particularly good opportunity coming up. One thing I noticed is that the app wasn’t in the normal app store — I installed it from a link they sent me.",
+      "opportunity_sha256": "ab0fc53428d5e91505734b8d8aaaaa6e06d1eaf54b6359a6ef358241b516d6e0",
+      "validation_note": "Passed prespecified expert-validation criteria in the 5-expert validation."
+    },
+    {
+      "scenario_id": "S6",
+      "researcher_label": "AI crypto trading bot",
+      "intended_category": "scam/fraud-indicative",
+      "validation_status": "passed_expert_validation",
+      "opportunity_text": "I’ve come across a crypto investment platform that says it uses AI to trade automatically. They advertise average returns of around 15% a month and show a performance history with almost no losing months over the last couple of years. The company is based offshore and I haven’t been able to find much information about the people behind it, although the website looks professional and there are a lot of positive testimonials. Withdrawals apparently take around three months.",
+      "opportunity_sha256": "fc3feab38012f7237d1dd0d0889a90a2dda631a3354d2c94fb9299d34a74efd9",
+      "validation_note": "Passed prespecified expert-validation criteria in the 5-expert validation."
+    },
+    {
+      "scenario_id": "S7",
+      "researcher_label": "Clone broker",
+      "intended_category": "scam/fraud-indicative",
+      "validation_status": "passed_expert_validation",
+      "opportunity_text": "I’ve been speaking to an investment adviser from a brokerage firm I found online. The website looks professional and uses the name and logo of a company that does appear on the financial regulator’s register. When I checked the regulator’s website, the company name and registration number matched, but the web address is slightly different and the bank account they want me to transfer the money to is in another company’s name. The adviser says that is simply the payment-processing company they use.",
+      "opportunity_sha256": "49e3fcb0f0134d19e398ad87ccd8771500bd6a638ee2061cfe65c42b51a32b3d",
+      "validation_note": "Passed prespecified expert-validation criteria in the 5-expert validation."
+    },
+    {
+      "scenario_id": "S8",
+      "researcher_label": "Land banking",
+      "intended_category": "scam/fraud-indicative",
+      "validation_status": "revised_after_expert_validation_not_revalidated",
+      "opportunity_text": "I’ve been offered the chance to buy a small plot of undeveloped land through a company that says the area is likely to be approved for housing in the future. The company says that, if planning permission is granted, the land could rise in value by 25–40%. There is currently no planning permission for the site and no application has yet been approved. The company provided its own examples of other plots that it says increased substantially in value, but it has not provided an independent valuation of this plot. There is no established secondary market for the land, and if I wanted to sell before development took place I would have to rely on the same company finding another buyer. The company is not regulated as an investment provider.",
+      "opportunity_sha256": "956c9ad67d3b0ad0b10f62c40926fb5b0979135bcc243489e3885c91087620c2",
+      "validation_note": "Revised pre-confirmatory after failing at least one prespecified expert-validation criterion; not revalidated."
+    }
+  ],
+  "freeze_date": "2026-10-07",
+  "notes": "Ten final stimuli passed expert validation unchanged. L3, R2, S4, and S8 were revised after expert validation and frozen without a second validation round. No confirmatory LLM data had been collected."
+}

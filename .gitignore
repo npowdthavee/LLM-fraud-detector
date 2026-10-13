@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+replication_outputs/
+llm_financial_pressure/
+.venv/
+.DS_Store
